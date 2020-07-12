@@ -1,8 +1,12 @@
+<!DOCTYPE html>
 <html>
-<head>
-  <title>this is sharwan website</title>
- </head>
- <body>
- <p>Hello World</p>
- </body>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "This is Sharwan!";
+?>
+
+</body>
 </html>
